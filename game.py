@@ -1,9 +1,9 @@
-import pygame
+import arcade
 import random
 import sys
 import time
-import arcade
 from enum import Enum
+import pygame
 import math
 import json
 import os
